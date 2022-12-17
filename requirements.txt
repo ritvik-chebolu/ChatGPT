@@ -1,3 +1,4 @@
 streamlit==1.16.0
-openai
+openai~=0.25.0
 streamlit-chat
+config~=0.5.1
